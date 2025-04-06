@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+Getting+started+with+programming!)](https://git.io/typing-svg)
 
-<img src="https://images.app.goo.gl/pybcc" alt="Pixel Art" align="right" width="200">
+<img src="https://www.google.com/imgres?q=gif%20mario%20github&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*0N8CVKix7OGfBDsgh9DzrQ.gif&imgrefurl=https%3A%2F%2Fasishkumargouda10.medium.com%2Fhow-to-contribute-to-open-source-4eff0ce734c1&docid=BC-ptNAFxvm6ZM&tbnid=gjV-fY87U3IhAM&vet=12ahUKEwi-2ZaQucSMAxUFppUCHfiUHmwQM3oECBcQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwi-2ZaQucSMAxUFppUCHfiUHmwQM3oECBcQAA" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
