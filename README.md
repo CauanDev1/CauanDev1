@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://www.google.com/imgres?q=gif%20mario%20github&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*0N8CVKix7OGfBDsgh9DzrQ.gif&imgrefurl=https%3A%2F%2Fasishkumargouda10.medium.com%2Fhow-to-contribute-to-open-source-4eff0ce734c1&docid=BC-ptNAFxvm6ZM&tbnid=gjV-fY87U3IhAM&vet=12ahUKEwi-2ZaQucSMAxUFppUCHfiUHmwQM3oECBcQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwi-2ZaQucSMAxUFppUCHfiUHmwQM3oECBcQAA" alt="Pixel Art" align="right" width="200">
+<img src="https://www.google.com/search?q=gif+mario+github&client=ms-android-oppo&sca_esv=e0c74afe7cdc65f7&udm=2&biw=390&bih=742&sxsrf=AHTn8zosLB3KWsHc6gg8UlNaG6Nmebr3eg%3A1743978048601&ei=QP7yZ4CzJPbM1sQPqJ3TwAo&oq=gif+mario+github&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciEGdpZiBtYXJpbyBnaXRodWIyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiDOFCaB1ijNXACeACQAQCYAZACoAGPDaoBBTAuOC4yuAEDyAEA-AEBmAIMoALWDcICBxAjGCcYyQLCAgUQABiABMICChAAGIAEGEMYigXCAgQQABgewgIGEAAYCBgewgIEECEYFZgDAIgGAZIHBTIuOC4yoAeTHLIHBTAuOC4yuAfIDQ&sclient=mobile-gws-wiz-img#vhid=gjV-fY87U3IhAM&vssid=mosaic" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
