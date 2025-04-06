@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://www.google.com/search?q=gif+mario+github&client=ms-android-oppo&sca_esv=e0c74afe7cdc65f7&udm=2&biw=390&bih=742&sxsrf=AHTn8zosLB3KWsHc6gg8UlNaG6Nmebr3eg%3A1743978048601&ei=QP7yZ4CzJPbM1sQPqJ3TwAo&oq=gif+mario+github&gs_lp=EhJtb2JpbGUtZ3dzLXdpei1pbWciEGdpZiBtYXJpbyBnaXRodWIyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiDOFCaB1ijNXACeACQAQCYAZACoAGPDaoBBTAuOC4yuAEDyAEA-AEBmAIMoALWDcICBxAjGCcYyQLCAgUQABiABMICChAAGIAEGEMYigXCAgQQABgewgIGEAAYCBgewgIEECEYFZgDAIgGAZIHBTIuOC4yoAeTHLIHBTAuOC4yuAfIDQ&sclient=mobile-gws-wiz-img#vhid=gjV-fY87U3IhAM&vssid=mosaic" alt="Pixel Art" align="right" width="200">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dportuguese%26id%3D3021481905&psig=AOvVaw0M0kebRjUW_-7uZ7jGDZTG&ust=1744064619057000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCkxc27xIwDFQAAAAAdAAAAABAQ" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
