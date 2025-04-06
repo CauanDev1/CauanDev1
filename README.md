@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" alt="Pixel Art" align="right" width="200">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250406T225449Z&X-Amz-Expires=300&X-Amz-Signature=a6a59caf2f90141213fa3926bdad2ea20c25aadab3eb90c87ca18a86a0ef7e26&X-Amz-SignedHeaders=host" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
